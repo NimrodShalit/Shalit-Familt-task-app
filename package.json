@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://NimrodShalit.github.io/shalit-family-task-app",
+  "homepage": "https://NimrodShalit.github.io/Shalit-Familt-task-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
