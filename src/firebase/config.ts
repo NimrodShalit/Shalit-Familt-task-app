@@ -1,4 +1,3 @@
-
 // STEP 1: Go to https://console.firebase.google.com/ and create a new project.
 // STEP 2: In your project, click the Web icon (</>) to create a new web app.
 // STEP 3: You will be given a `firebaseConfig` object. Copy and paste it here.

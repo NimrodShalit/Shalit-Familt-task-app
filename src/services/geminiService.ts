@@ -1,9 +1,6 @@
-
 import { GoogleGenAI, FunctionDeclaration, Type } from '@google/genai';
 import type { User, Task } from '../types';
 
-// FIX: Switched from `import.meta.env.VITE_GEMINI_API_KEY` to `process.env.API_KEY`
-// to align with the Gemini API coding guidelines and resolve TypeScript errors.
 const API_KEY = process.env.API_KEY;
 if (!API_KEY) {
   console.warn("API key not found. Please set the API_KEY environment variable.");
